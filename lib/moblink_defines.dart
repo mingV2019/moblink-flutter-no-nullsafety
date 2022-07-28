@@ -5,7 +5,7 @@ class MLSDKError extends Error {
 	final int code;
 	final dynamic userInfo;
 
-	MLSDKError({@required this.rawData}): code = rawData != null ? rawData["code"] : 0, userInfo = rawData != null ? rawData["userInfo"] : {}, super();
+	MLSDKError({this.rawData}): code = rawData != null ? rawData["code"] : 0, userInfo = rawData != null ? rawData["userInfo"] : {}, super();
 
 }
 
@@ -13,7 +13,7 @@ class MobLinkMethod {
 	final String name;
 	final int id;
 
-	MobLinkMethod({@required this.name, @required this.id}): assert(name != null && id != null), super();
+	MobLinkMethod({this.name, this.id}): assert(name != null && id != null), super();
 
 }
 
