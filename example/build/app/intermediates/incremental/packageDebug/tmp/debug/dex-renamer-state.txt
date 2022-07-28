@@ -1,0 +1,4 @@
+#Thu Jul 28 16:38:32 CST 2022
+base.0=/Users/mingv/Desktop/test/moblink-3.4.4/example/build/app/intermediates/dex/debug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

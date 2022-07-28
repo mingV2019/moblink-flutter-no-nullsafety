@@ -1,0 +1,289 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:1:1-46:12
+INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:1:1-46:12
+INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:1:1-46:12
+INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:1:1-46:12
+MERGED from [:moblink] /Users/mingv/Desktop/test/moblink-3.4.4/example/build/moblink/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:2:1-86:12
+MERGED from [com.mob:MobLink:3.4.8] /Users/mingv/.gradle/caches/transforms-2/files-2.1/7091916ba07a0176913338aedf08a05b/MobLink-3.4.8/AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/dfb415db1592aedb082108088d0d968e/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/mingv/.gradle/caches/transforms-2/files-2.1/625856a513b529e511fcd53db5372a07/window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/2b052976c1ec9cc8a588c0521b451214/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/1eea74fadeceb46b99bb25ce71002443/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/32ef71705030acde16676e7d1fc0af2e/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mingv/.gradle/caches/transforms-2/files-2.1/5112edb9d53a8baed971a2278940cd40/window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/2f6bf1d65d4b5ac7daf5beb6dc519105/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/59a290d58ac09e01fae8285581ff514b/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/cb5f2a738c8cb0e5b509bb3c2cd83a9b/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/52d8b681b858e57305c95015bafdbee9/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/bafa1ee40d83e62421b667c9d23cbbb9/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/99c4b493e2f0cc8f7c0c1ed0fd68965f/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/d9984fbbf20c41429377bb928eebcee5/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/4c289c7e21c2d3677abfa3a4cfc201c0/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mingv/.gradle/caches/transforms-2/files-2.1/f6cf72e6dd38363fada974767705a7aa/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/dded4ada9f36190d3c5ff5de5a678e89/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/47c970fbed02de749872148c239100f4/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:1:1-46:12
+INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:1:1-46:12
+INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:1:1-46:12
+	package
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:1:1-46:12
+		INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:1:1-46:12
+		INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:9:5-66
+MERGED from [com.mob:MobLink:3.4.8] /Users/mingv/.gradle/caches/transforms-2/files-2.1/7091916ba07a0176913338aedf08a05b/MobLink-3.4.8/AndroidManifest.xml:11:5-67
+MERGED from [com.mob:MobLink:3.4.8] /Users/mingv/.gradle/caches/transforms-2/files-2.1/7091916ba07a0176913338aedf08a05b/MobLink-3.4.8/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:18:5-45:19
+MERGED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:9:5-84:19
+MERGED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:9:5-84:19
+MERGED from [com.mob:MobLink:3.4.8] /Users/mingv/.gradle/caches/transforms-2/files-2.1/7091916ba07a0176913338aedf08a05b/MobLink-3.4.8/AndroidManifest.xml:13:5-20
+MERGED from [com.mob:MobLink:3.4.8] /Users/mingv/.gradle/caches/transforms-2/files-2.1/7091916ba07a0176913338aedf08a05b/MobLink-3.4.8/AndroidManifest.xml:13:5-20
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mingv/.gradle/caches/transforms-2/files-2.1/5112edb9d53a8baed971a2278940cd40/window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mingv/.gradle/caches/transforms-2/files-2.1/5112edb9d53a8baed971a2278940cd40/window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/59a290d58ac09e01fae8285581ff514b/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/59a290d58ac09e01fae8285581ff514b/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mingv/.gradle/caches/transforms-2/files-2.1/f6cf72e6dd38363fada974767705a7aa/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mingv/.gradle/caches/transforms-2/files-2.1/f6cf72e6dd38363fada974767705a7aa/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/59a290d58ac09e01fae8285581ff514b/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:20:9-40
+	android:icon
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:21:9-43
+	tools:replace
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:22:9-37
+	android:name
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:19:9-76
+activity#com.example.moblinkexample.MainActivity
+ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:23:9-41:20
+	android:launchMode
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:25:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:28:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:29:13-55
+	android:configChanges
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:27:13-137
+	android:theme
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:26:13-47
+	android:name
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:24:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:34:13-36:40
+	android:value
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:36:17-37
+	android:name
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:35:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:39:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:42:9-44:33
+	android:value
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:44:13-30
+	android:name
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml:43:13-44
+uses-sdk
+INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml
+MERGED from [:moblink] /Users/mingv/Desktop/test/moblink-3.4.4/example/build/moblink/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:moblink] /Users/mingv/Desktop/test/moblink-3.4.4/example/build/moblink/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:5:2-7:35
+MERGED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:5:2-7:35
+MERGED from [com.mob:MobLink:3.4.8] /Users/mingv/.gradle/caches/transforms-2/files-2.1/7091916ba07a0176913338aedf08a05b/MobLink-3.4.8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mob:MobLink:3.4.8] /Users/mingv/.gradle/caches/transforms-2/files-2.1/7091916ba07a0176913338aedf08a05b/MobLink-3.4.8/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/dfb415db1592aedb082108088d0d968e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/dfb415db1592aedb082108088d0d968e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/mingv/.gradle/caches/transforms-2/files-2.1/625856a513b529e511fcd53db5372a07/window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/mingv/.gradle/caches/transforms-2/files-2.1/625856a513b529e511fcd53db5372a07/window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/2b052976c1ec9cc8a588c0521b451214/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/2b052976c1ec9cc8a588c0521b451214/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/1eea74fadeceb46b99bb25ce71002443/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/1eea74fadeceb46b99bb25ce71002443/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/32ef71705030acde16676e7d1fc0af2e/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/32ef71705030acde16676e7d1fc0af2e/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mingv/.gradle/caches/transforms-2/files-2.1/5112edb9d53a8baed971a2278940cd40/window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mingv/.gradle/caches/transforms-2/files-2.1/5112edb9d53a8baed971a2278940cd40/window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/2f6bf1d65d4b5ac7daf5beb6dc519105/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/2f6bf1d65d4b5ac7daf5beb6dc519105/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/59a290d58ac09e01fae8285581ff514b/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/59a290d58ac09e01fae8285581ff514b/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/cb5f2a738c8cb0e5b509bb3c2cd83a9b/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/cb5f2a738c8cb0e5b509bb3c2cd83a9b/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/52d8b681b858e57305c95015bafdbee9/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/52d8b681b858e57305c95015bafdbee9/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/bafa1ee40d83e62421b667c9d23cbbb9/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/bafa1ee40d83e62421b667c9d23cbbb9/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/99c4b493e2f0cc8f7c0c1ed0fd68965f/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/99c4b493e2f0cc8f7c0c1ed0fd68965f/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/d9984fbbf20c41429377bb928eebcee5/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/d9984fbbf20c41429377bb928eebcee5/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/4c289c7e21c2d3677abfa3a4cfc201c0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/4c289c7e21c2d3677abfa3a4cfc201c0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mingv/.gradle/caches/transforms-2/files-2.1/f6cf72e6dd38363fada974767705a7aa/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mingv/.gradle/caches/transforms-2/files-2.1/f6cf72e6dd38363fada974767705a7aa/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/dded4ada9f36190d3c5ff5de5a678e89/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/dded4ada9f36190d3c5ff5de5a678e89/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/47c970fbed02de749872148c239100f4/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mingv/.gradle/caches/transforms-2/files-2.1/47c970fbed02de749872148c239100f4/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mingv/Desktop/test/moblink-3.4.4/example/android/app/src/main/AndroidManifest.xml
+service#com.mob.MobACService
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:10:9-17:19
+	android:enabled
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:12:13-35
+	android:exported
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:11:13-48
+intent-filter#action:name:com.mob.service.action.MOB_AC_SERVICE
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:14:13-16:29
+action#com.mob.service.action.MOB_AC_SERVICE
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:15:17-80
+	android:name
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:15:25-77
+activity#com.mob.id.MobIDActivity
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:19:9-27:20
+	android:exported
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:21:13-36
+	android:theme
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:22:13-83
+	android:name
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:20:13-52
+intent-filter#action:name:com.mob.id.app_30000+category:name:android.intent.category.DEFAULT
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:23:13-26:29
+action#com.mob.id.app_30000
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:24:25-60
+category#android.intent.category.DEFAULT
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:25:27-73
+activity#com.mob.id.MobIDSYActivity
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:29:9-37:20
+	android:exported
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:31:13-36
+	android:theme
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:32:13-83
+	android:name
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:30:13-54
+intent-filter#action:name:com.mob.id.app_lk+category:name:android.intent.category.DEFAULT
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:33:13-36:29
+action#com.mob.id.app_lk
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:34:25-57
+service#com.mob.id.MobIDService
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:39:9-46:19
+	android:enabled
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:42:13-36
+	android:name
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:40:13-51
+intent-filter#action:name:com.mob.intent.MOB_ID_SERVICE
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:43:13-45:29
+action#com.mob.intent.MOB_ID_SERVICE
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:44:17-72
+	android:name
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:44:25-69
+meta-data#mob_guard_version
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:48:9-50:37
+	android:value
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:50:13-34
+	android:name
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:49:13-45
+meta-data#mob_id_ver
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:52:9-54:37
+	android:value
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:54:13-34
+	android:name
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:53:13-38
+activity#com.mob.guard.MobTranPullUpActivity
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:56:9-64:20
+	android:exported
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:58:13-36
+	android:theme
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:59:13-83
+	android:name
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:57:13-63
+intent-filter#action:name:com.mob.open.app_20000+category:name:android.intent.category.DEFAULT
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:60:13-63:29
+action#com.mob.open.app_20000
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:61:17-65
+	android:name
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:61:25-62
+activity#com.mob.guard.MobTranPullLockActivity
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:66:9-74:20
+	android:exported
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:68:13-36
+	android:theme
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:69:13-83
+	android:name
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:67:13-65
+intent-filter#action:name:com.mob.open.app_lk+category:name:android.intent.category.DEFAULT
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:70:13-73:29
+action#com.mob.open.app_lk
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:71:17-62
+	android:name
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:71:25-59
+service#com.mob.guard.MobGuardPullUpService
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:76:9-83:19
+	android:enabled
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:78:13-35
+	android:exported
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:79:13-36
+	android:name
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:77:13-63
+intent-filter#action:name:com.mob.intent.MOB_GUARD_SERVICE
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:80:13-82:29
+action#com.mob.intent.MOB_GUARD_SERVICE
+ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:81:17-75
+	android:name
+		ADDED from [com.mob:MobCoreULT:2022.0725.2109] /Users/mingv/.gradle/caches/transforms-2/files-2.1/44e8b1479a9c6a5d84bc5e0fd86358ce/MobCoreULT-2022.0725.2109/AndroidManifest.xml:81:25-72
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/mingv/.gradle/caches/transforms-2/files-2.1/5112edb9d53a8baed971a2278940cd40/window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/mingv/.gradle/caches/transforms-2/files-2.1/5112edb9d53a8baed971a2278940cd40/window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/mingv/.gradle/caches/transforms-2/files-2.1/5112edb9d53a8baed971a2278940cd40/window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/mingv/.gradle/caches/transforms-2/files-2.1/5112edb9d53a8baed971a2278940cd40/window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/mingv/.gradle/caches/transforms-2/files-2.1/5112edb9d53a8baed971a2278940cd40/window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/mingv/.gradle/caches/transforms-2/files-2.1/5112edb9d53a8baed971a2278940cd40/window-1.0.0-beta04/AndroidManifest.xml:29:13-51
